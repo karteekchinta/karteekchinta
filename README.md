@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karteekchinta
-- 👀 I’m interested in Python 
-- 🌱 I’m currently Python Full stack
+- 👀 I’m interested in Java and Java script
+- 🌱 I’m currently Java Full stack
 - 💞️ I’m looking to collaborate on Machine Learning and Data science
 - 📫Reach me at : +91 7981168161  karteekchinta@gmail.com
 

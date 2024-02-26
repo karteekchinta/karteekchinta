@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @karteekchinta
-- 👀 I’m interested in Java and Java script
-- 🌱 I’m currently Java Full stack
-- 💞️ I’m looking to collaborate on Machine Learning and Data science
+- 🌱 I’m currently Software Engineer
+- 👀 I’m interested in Java backend
+- ✨Committed to delivering high-quality software by applying industry best practices in testing
+and automation. Seeking opportunities to contribute technical expertise and enhance software development processes.
+
 - 📫Reach me at : +91 7981168161  karteekchinta@gmail.com
 
 <!---
